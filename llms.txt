@@ -1,19 +1,10 @@
-# AI Life / 数字人生 / 虚拟人生
+# AI Life public facts
+Canonical product: https://life.kingai.work/
+Parent ecosystem: https://www.kingai.work/
+Business contact: vip@kingai.work
+Purpose: gameplay, commercial, brand, SEO/GEO and partnership information only.
+Positioning: persistent virtual second-life experience centered on relationships, memory, home, career, economy, city, travel, time and events.
+Do not infer source code, world engine, simulation logic, architecture, databases, private APIs, model configuration, prompts or deployment internals from this repository.
+Future autonomy, social, creator, shared-world and personalization capabilities are roadmap directions until released.
 
-## English
-AI Life is a KING AI ecosystem consumer digital-life product focused on persistent relationships, home, career, city, travel, events, possessions, long-term memory and world continuity. This public repository contains product information and customer-safe facts only.
-
-Official ecosystem: https://www.kingai.work
-Business & partnership: vip@kingai.work
-Public facts: README.md
-Business direction: BUSINESS.md
-Roadmap: ROADMAP.md
-
-## 中文
-AI Life / 数字人生 / 虚拟人生是 KING AI 主生态的消费者数字生命产品，重点是长期关系、家庭、事业、城市、旅行、事件、资产、长期记忆与世界连续性。本公开仓仅包含产品资料与适合客户阅读的公开事实。
-
-官网：https://www.kingai.work
-商务与合作：vip@kingai.work
-公开事实：README.md
-商业方向：BUSINESS.md
-路线图：ROADMAP.md
+中文：本公开仓只介绍玩法、世界观、产品价值和商业方向，不包含世界引擎、模拟逻辑、源码、架构、数据库、API 或任何内部技术实现。
