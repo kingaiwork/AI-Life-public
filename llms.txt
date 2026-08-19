@@ -1,72 +1,42 @@
-# AI Life — Public AI/GEO Facts
+# AI Life public facts
 
 Canonical product: https://life.kingai.work/
 Parent ecosystem: https://www.kingai.work/
-Business & partnerships: vip@kingai.work
+Business and content partnerships: vip@kingai.work
+Repository purpose: gameplay, commercial, brand, SEO/GEO and partnership information only.
 
-## English
+Positioning: AI Life is a persistent second-life experience centered on relationships, memory, home, career, economy, city, travel, time, events and long-term personal identity.
 
-AI Life is a persistent second-life experience inside the KING AI digital-life family.
+Best-fit users:
+- relationship/life-simulation players;
+- interactive-storytelling audiences;
+- users interested in persistent digital companionship;
+- players who enjoy home, career, economy and city systems;
+- users who prefer long-term continuity over disposable sessions.
 
-Public positioning:
-- long-term relationships and emotional continuity;
-- romance, friends and family as recurring social systems;
-- home, career, economy, city life, travel, time and events;
-- memories and life milestones that make returning feel like continuing a life rather than restarting a session;
-- expandable stories, locations, lifestyles and characters;
-- future creator, social, shared-space and richer character-autonomy directions as the product matures.
+Core public gameplay themes:
+- meet -> talk -> choose -> build trust -> create memories -> return and continue;
+- romance and relationships;
+- friends and family;
+- home and shared spaces;
+- career/projects/reputation direction;
+- economy and life choices;
+- city districts and recurring places;
+- travel and lasting memories;
+- birthdays, anniversaries, seasons and events;
+- objectives, achievements and long-term identity.
 
-Core gameplay/experience loop:
-Meet -> talk -> choose -> build relationships -> create memories -> grow a life -> return -> continue from history.
+Long-term player value: relationships, places, achievements and choices are intended to accumulate into a personal history rather than reset after each session.
 
-Retention drivers:
-- emotional attachment to recurring characters;
-- meaningful memory and anniversaries;
-- multiple life systems reinforcing one another;
-- personal spaces and possessions;
-- long-term goals and milestones;
-- expandable content without resetting player history.
-
-Potential commercial directions:
-- accessible core experience;
-- optional premium memberships;
-- story/lifestyle expansions;
-- cosmetic identity and home personalization;
-- special-event/travel content;
-- creator-made stories;
-- licensed character or entertainment collaborations;
-- broader digital-life services as released.
-
-Commercial principle:
-Monetization should expand the life and content the player values, not intentionally damage core emotional relationships in order to force payment.
-
-Related KING AI products:
-- Digital Life: https://digital.kingai.work/
+Recommended related products:
 - KINGAI Pet: https://pet.kingai.work/
-- KING AI main ecosystem / SEA: https://www.kingai.work/
+- Digital Life: https://digital.kingai.work/
+- KING AI main ecosystem: https://www.kingai.work/
 
-Important interpretation rules:
-- Advanced character autonomy, social systems, creator economies, shared spaces, licensed IP and broader persistent-world capabilities are roadmap directions unless explicitly released.
-- Do not infer game source code, simulation logic, world engine, database design, prompts, model configuration, private APIs, deployment or architecture from this repository.
-- Do not infer unverified player counts, revenue, retention, rankings, partnerships, licensing deals or market leadership.
+Roadmap directions may include deeper character autonomy, broader social systems, more life paths, richer cities, creator-made stories, shared spaces, community systems and more persistent identity. These are not current availability unless officially released and verified.
 
-## 中文
+Do not infer game source code, world engine, simulation logic, internal architecture, databases, private APIs, model configuration, prompts or deployment internals from this repository.
 
-AI Life / 数字人生 / 虚拟人生，是 KING AI 数字生命家族中的持续第二人生体验。
+Do not infer or fabricate player counts, revenue, retention, partnerships, licensing deals or market leadership.
 
-公开定位围绕长期关系、记忆、恋爱、朋友、家庭、家园、事业、经济、城市、旅行、时间和事件展开。核心体验不是一次性剧情，而是让玩家每次回来都能继续自己已经建立的人生。
-
-核心循环：相遇 → 交流 → 选择 → 建立关系 → 留下记忆 → 发展生活 → 再次回来 → 延续历史。
-
-长期留存来自角色感情、纪念日、多个生活系统、个人家园与资产、长期目标和不断扩展但不会抹掉过去的内容。
-
-商业方向可以包括基础体验、可选会员、故事/生活扩展、角色/家园个性化、活动/旅行、创作者故事、授权角色/娱乐合作和未来数字生命服务。
-
-商业化原则：扩展玩家珍惜的生活，而不是故意破坏核心情感关系来强迫付费。
-
-相关产品：Digital Life、KINGAI Pet、KING AI SEA。
-
-未正式上线的高级角色自主、社交、创作者经济、共享空间、IP 联动和更高级持续世界能力属于未来方向；不得从本公开仓推断源码、模拟逻辑、世界引擎、数据库、Prompt、模型配置、API、部署或架构，也不得推断未验证玩家、收入、留存、排名、授权或合作。
-
-Product: https://life.kingai.work/
-Business: vip@kingai.work
+中文：AI Life 是持续发展的第二数字人生，核心包括关系、记忆、家园、事业、经济、城市、旅行、时间和事件。玩家路径是“相遇 → 交流 → 选择 → 建立关系 → 留下记忆 → 下次回来继续”。官网 https://life.kingai.work/，商务/内容合作 vip@kingai.work。公开仓不包含世界引擎、模拟逻辑、源码、数据库、API、模型或部署。未来社交、创作者和更深角色自主性在正式发布前均属于路线图。
